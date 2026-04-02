@@ -1,0 +1,1 @@
+# CV_Lab6_Intro_ANN-MNIST
