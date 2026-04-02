@@ -8,6 +8,7 @@ rich>=10.14.0
 protobuf==4.25.3
 
 
-# รันด้วย Python 3.12.13
+# รันด้วย Python 3.10
+# แล้วกด Reboot app
 # pip install -r requirements.txt
 # streamlit run app.py
