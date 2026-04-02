@@ -4,7 +4,7 @@ Pillow
 numpy
 rich>=10.14.0
 
-# รันด้วย Python 3.10
+# รันด้วย Python 3.12
 # แล้วกด Reboot app
 # pip install -r requirements.txt
 # streamlit run app.py
